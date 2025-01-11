@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a MERN-Stack Web Developer with a passion for crafting intuitive, user-friendly web applications. I'm dedicated to delivering seamless user experiences through clean, maintainable, and optimized code.</p>
+<p align="left">I'm a Front-End Web Developer with a passion for crafting intuitive, user-friendly web applications. I'm dedicated to delivering seamless user experiences through clean, maintainable, and optimized code.</p>
 
 ###
 
