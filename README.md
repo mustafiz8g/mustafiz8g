@@ -78,5 +78,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mustafiz8g%20)](https://git.io/streak-stats)
-###
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mustafiz8g"/></a>
