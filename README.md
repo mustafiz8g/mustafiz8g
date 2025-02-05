@@ -9,7 +9,13 @@
 ###
 
 <p align="left">I'm a Front-End Web Developer with a passion for crafting intuitive, user-friendly web applications. I'm dedicated to delivering seamless user experiences through clean, maintainable, and optimized code.</p>
+<h2 align="left">Current Activities</h2>
 
+###
+
+<p align="left">Currenty I am exploring nextjs and typescript</p>
+
+###
 ###
 
 <h2 align="left">Technologies & Tools</h2>
