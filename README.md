@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">A passionate Mern Stack Developer</h3>
+<h3 align="left">A passionate Frontend Developer</h3>
 
 ###
 
